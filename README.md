@@ -155,15 +155,8 @@ Categorizes products based on price.
 3. Press Enter.
 4. Fill down the column.
 
-### Example Output
 
-| Price | Result         |
-| ----- | -------------- |
-| 1000  | high price     |
-| 130   | standard price |
-| 500   | high price     |
-
----
+-
 
 # 7. SUMIF Function
 
